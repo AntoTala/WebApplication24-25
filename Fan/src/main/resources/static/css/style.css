@@ -1,0 +1,53 @@
+
+h1{
+    font-family: "Georgia",serif;
+}
+
+.nav-link{
+     color:deepskyblue;
+     font-weight: bold;
+}
+.nav-link:hover{
+ text-decoration: underline;
+}
+.img-fluid{
+    height:200px;
+}
+.card-title{
+    font-family:'Georgia', serif;
+    color:blueviolet;
+    text-shadow:2px 2px 2px rgba(0,0,0,0.2);
+}
+h2,h3{
+    color:blue;
+    font-family:'Georgia', serif;
+    text-shadow:2px 2px 4px rgba(0,0,0,0.2);
+}
+h5{
+    font-weight: bold;
+}
+th{
+    text-align: center;
+    font-family: 'Georgia', serif;
+}
+th:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.table{
+    border-color:black;
+    border-collapse: collapse;
+}
+.table tbody td{
+    text-align:center;
+    color:blue;
+    text-shadow:2px 2px 4px rgba(0,0,0,0.2);
+}
+
+
+.sorting{
+     float:right;
+     line-height:20px;
+     vertical-align:bottom;
+}
